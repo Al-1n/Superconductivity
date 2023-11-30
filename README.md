@@ -36,18 +36,27 @@ The data collection team included Zachary Kluger, Justin Ao, Jeremy Schleiffer a
 Most commonly, Josephson junctions are constructed of three layers: two superconducting layers with a verry thin barrier layer in between.   
 
 
-![](/img/junction.png)
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/junction.png' alt='' title='example image'/>
+</div>
 
 <div class='col two caption'>
-    Image credit <a href='https://commons.wikimedia.org/wiki/User:Dnn87'>Dnn87</a>. This file is licensed under the <a href='https://en.wikipedia.org/wiki/en:Creative_Commons'>Creative Commons</a> <a href='https://creativecommons.org/licenses/by/3.0/deed.en'>Attribution 3.0 Unported</a> license.
+    Conceptual representation of the cross-section of a NbAl<sub>2</sub>O<sub>3</sub>Nb tunneling junction.
 </div>
 <br/>      
 
 
 
+<div style='text-align: center;' class='img_row'>
+    <img class='col two' src='{{ site.baseurl }}/img/temp_circ.png' alt='' title='example image'/>
+</div>
 
+<div class='col two caption'>
+    The diagram shows the temperature measuring part of the experimental setup. The Cryogenic Probe Vacuum Can (CPVC) contains enclosed the test circuitry including the germanium thermometer and the Josephson junctions. 
+</div>
+<br/>      
 
-# Josephson Junctions as candidates for Quantum Qubits
+## Josephson Junctions as candidates for Quantum Qubits
 
 <br/>
  
@@ -73,7 +82,7 @@ Through the phenomenon of superposition, these qubits can exist in multiple stat
 </div>
 <br/>
 
-# Advantages of Quantum Computers and Superconducting Qubits
+## Advantages of Quantum Computers and Superconducting Qubits
 
 <br/>
 
