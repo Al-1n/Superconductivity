@@ -36,9 +36,7 @@ The data collection team included Zachary Kluger, Justin Ao, Jeremy Schleiffer a
 Most commonly, Josephson junctions are constructed of three layers: two superconducting layers with a verry thin barrier layer in between.   
 
 
-<div style='text-align: center;' class='img_row'>
-    <img class='col two' src='{{ site.baseurl }}/img/junction.png' alt='' title='example image'/>
-</div>
+![](/img/junction.png)
 
 <div class='col two caption'>
     Conceptual representation of the cross-section of a NbAl<sub>2</sub>O<sub>3</sub>Nb tunneling junction.
@@ -47,9 +45,7 @@ Most commonly, Josephson junctions are constructed of three layers: two supercon
 
 
 
-<div style='text-align: center;' class='img_row'>
-    <img class='col two' src='{{ site.baseurl }}/img/temp_circ.png' alt='' title='example image'/>
-</div>
+![](/img/temp_circ.png)
 
 <div class='col two caption'>
     The diagram shows the temperature measuring part of the experimental setup. The Cryogenic Probe Vacuum Can (CPVC) contains enclosed the test circuitry including the germanium thermometer and the Josephson junctions. 
