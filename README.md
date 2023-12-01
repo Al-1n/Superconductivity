@@ -73,7 +73,6 @@ The inductance of the Josephson junction arises from the fact that the Cooper pa
   <img src="/img/junction.png" alt=""><br/>
   <em>Conceptual representation of the cross-section of a NbAl<sub>2</sub>O<sub>3</sub>Nb tunneling junction.</em> 
 </p>
-
 <br/>  
 
 ## Binary Representation and Quantum Computing 
@@ -87,11 +86,10 @@ The state of a qubit can be manipulated by applying a magnetic field to the junc
 Qubits can be entangled, which means that they are linked together in such a way that they share the same fate. Entanglement is a key feature of quantum computing, and it allows qubits to perform computations that are impossible for classical computers.
 
 
-![](/img/temp_circ.png)
-
-<div class='col two caption'>
-    The diagram shows the temperature measuring component of the experimental setup. The Cryogenic Probe Vacuum Can (CPVC) contains enclosed the test circuitry including the germanium thermometer and the Josephson junctions. 
-</div>
+<p align="center" width="100%">
+  <img src="/img/temp_circ.png" alt=""><br/>
+  <em>The diagram shows the temperature measuring component of the experimental setup. The Cryogenic Probe Vacuum Can (CPVC) contains enclosed the test circuitry including the germanium thermometer and the Josephson junctions. </em> 
+</p>
 <br/>       
 
 ## Advantages of Quantum Computers and Superconducting Qubits
