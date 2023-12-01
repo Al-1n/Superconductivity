@@ -20,6 +20,10 @@ This repository contains Python code for analyzing data from a real-world quantu
 
 The code in these files can be adapted and used as a guidline for analyzing measurements of the properties predicted by the BCS theory of superconductivity using low-temperature methods and Josephson Junctions in a lab setting. 
 
+Any environment that can load a python kernel and run jupyter notebooks such as *vs code*, *google collab* or *conda* can be used.
+
+In order to adapt the code to new measurements, a basic understanding on how to place, load and transform the data is required. 
+
 **Contributors**
 
 The experiment was performed under the guidance of Dr. Mengkun Liu and Gleb Aminov.
@@ -64,11 +68,12 @@ At low voltages, the current through the Josephson junction is sinusoidal and it
 
 The inductance of the Josephson junction arises from the fact that the Cooper pairs flow in a loop around the junction. When a current flows through the junction, it creates a magnetic field that interacts with the Cooper pairs and causes them to flow more slowly. This reduces the current through the junction, which in turn reduces the magnetic field, and so on. This feedback loop creates the nonlinear behavior of the Josephson junction.  
 
-![](/img/junction.png)
 
-<div class='col two caption'>
-    Conceptual representation of the cross-section of a NbAl<sub>2</sub>O<sub>3</sub>Nb tunneling junction.
-</div>
+<p align="center" width="100%">
+  <img src="/img/junction.png" alt=""><br/>
+  <em>Conceptual representation of the cross-section of a NbAl<sub>2</sub>O<sub>3</sub>Nb tunneling junction.</em> 
+</p>
+
 <br/>  
 
 ## Binary Representation and Quantum Computing 
