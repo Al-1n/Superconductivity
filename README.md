@@ -35,7 +35,7 @@ This project focuses on testing some of the key predictions of one of the most s
 
 <p align="center" width="100%">
   <img src="/img/BCS.png" alt=""><br/>
-  <figcaption>John Bardeen, Leon Cooper and Robert Schrieffer. Image credit: <a href='https://physics.illinois.edu/people/nobel-laureates'>University of Illinois Nobel Laureats</a>.</figcaption>
+  John Bardeen, Leon Cooper and Robert Schrieffer. Image credit: <a href='https://physics.illinois.edu/people/nobel-laureates'>University of Illinois Nobel Laureats</a>.
 </p>
 
 
