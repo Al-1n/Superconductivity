@@ -28,19 +28,8 @@ The data collection team included Zachary Kluger, Justin Ao, Jeremy Schleiffer a
 
 ---
 
-<br/>
-
 # Background
-<br/>  
-
-Most commonly, Josephson junctions are constructed of three layers: two superconducting layers with a verry thin barrier layer in between.   
-
-![](/img/junction.png)
-
-<div class='col two caption'>
-    Conceptual representation of the cross-section of a NbAl<sub>2</sub>O<sub>3</sub>Nb tunneling junction.
-</div>
-<br/>      
+<br/>     
 
 This project focuses on testing some of the key predictions of one of the most succsessful  theories in physics: the BCS theory of superconductivity. The theory is named after John Bardeen, Leon Cooper and J. Robert Schrieffer who shared the 1972 NObel Proze in Physics for the discovery of the BCS theory. John Bardeen also shared the 1956 Nobel Prize in Physics for his contribution in the development of the first transistors at Bell Labs.   
 
@@ -68,14 +57,30 @@ With respect to the current project the **isotope effect** is particularly signi
 * **Energy gap**: There will be an energy gap between the ground state of a superconductor and the excited states. This means that it takes a certain amount of energy to excite an electron from the ground state to an excited state.
 
 
+# Josephson Junctions as candidates for Quantum Qubits 
 
-## Josephson Junctions as candidates for Quantum Qubits
+A Josephson junction is a type of electrical junction made of two superconductors separated by a thin insulating layer. In a superconductor, electrons flow in pairs called Cooper pairs, and these pairs can tunnel through the thin insulating layer of the Josephson junction. The current through the junction is determined by the difference in the phases of the Cooper pairs on the two sides of the junction.
+
+At low voltages, the current through the Josephson junction is sinusoidal and its amplitude is proportional to the applied voltage. However, at higher voltages, the current becomes nonlinear and exhibits hysteresis. This nonlinearity is due to the inductance of the junction, which is a measure of its ability to store magnetic energy.
+
+The inductance of the Josephson junction arises from the fact that the Cooper pairs flow in a loop around the junction. When a current flows through the junction, it creates a magnetic field that interacts with the Cooper pairs and causes them to flow more slowly. This reduces the current through the junction, which in turn reduces the magnetic field, and so on. This feedback loop creates the nonlinear behavior of the Josephson junction.  
+
+![](/img/junction.png)
+
+<div class='col two caption'>
+    Conceptual representation of the cross-section of a NbAl<sub>2</sub>O<sub>3</sub>Nb tunneling junction.
+</div>
+<br/>  
+
+### Binary Representation and Quantum Computing 
 
 <br/>
  
-Josephson junctions offer several advantages for quantum computing applications. Their compact size and scalability enable the fabrication of densely packed qubit arrays, while their inherent coherence and low decoherence rates ensure that quantum information can be maintained for extended periods. Additionally, Josephson junctions can be precisely controlled and coupled using external magnetic fields, facilitating the manipulation and entanglement of qubits.
+The inductive nonlinearity of the Josephson junction can be used to represent binary information. The two states of the qubit, "0" and "1", can be represented by the two phases of the Cooper pairs in the junction. The "0" state corresponds to a phase difference of 0, while the "1" state corresponds to a phase difference of π.
 
-Through the phenomenon of superposition, these qubits can exist in multiple states simultaneously, exponentially expanding computational possibilities.
+The state of a qubit can be manipulated by applying a magnetic field to the junction. The strength of the magnetic field determines the phase difference of the Cooper pairs, and thus the state of the qubit.
+
+Qubits can be entangled, which means that they are linked together in such a way that they share the same fate. Entanglement is a key feature of quantum computing, and it allows qubits to perform computations that are impossible for classical computers.
 
 
 ![](/img/temp_circ.png)
