@@ -35,16 +35,9 @@ This project focuses on testing some of the key predictions of one of the most s
 
 <p align="center" width="100%">
   <img src="/img/BCS.png" alt=""><br/>
-  John Bardeen, Leon Cooper and Robert Schrieffer. Image credit: <a href='https://physics.illinois.edu/people/nobel-laureates'>University of Illinois Nobel Laureats</a>.
+  <em>John Bardeen, Leon Cooper and Robert Schrieffer. Image credit:</em> <a href='https://physics.illinois.edu/people/nobel-laureates'>University of Illinois Nobel Laureats</a>.
 </p>
 
-
-![](/img/BCS.png)
-
-<div class='col two caption'>
-   John Bardeen, Leon Cooper and Robert Schrieffer. Image credit: <a href='https://physics.illinois.edu/people/nobel-laureates'>University of Illinois Nobel Laureats</a>. 
-</div>
-<br/>      
 
 One year after Bardeen, Cooper and Schriffer received the Nobel prize for the BCS theory, Brian Josephson received the 1973 Nobel Prize in physics "for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the **Josephson effects**". Below there is a summary of the key principles of superconductivity including the BCS theory. 
 
