@@ -34,7 +34,7 @@ The data collection team included Zachary Kluger, Justin Ao, Jeremy Schleiffer a
 This project focuses on testing some of the key predictions of one of the most succsessful  theories in physics: the BCS theory of superconductivity. The theory is named after John Bardeen, Leon Cooper and J. Robert Schrieffer who shared the 1972 NObel Proze in Physics for the discovery of the BCS theory. John Bardeen also shared the 1956 Nobel Prize in Physics for his contribution in the development of the first transistors at Bell Labs.   
 <div style="text-align: center;">
     <figure class="image">
-      <img src="/img/BCS.png" alt=""><br/>
+      <img align = "center" src="/img/BCS.png" alt=""><br/>
       <figcaption>John Bardeen, Leon Cooper and Robert Schrieffer. Image credit: <a href='https://physics.illinois.edu/people/nobel-laureates'>University of Illinois Nobel Laureats</a>.</figcaption>
     </figure>
 </div>
