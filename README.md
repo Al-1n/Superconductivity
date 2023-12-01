@@ -36,11 +36,11 @@ This project focuses on testing some of the key predictions of one of the most s
 ![](/img/BCS.png)
 
 <div class='col two caption'>
-   John Bardeen, Leon Cooper and Robert Schrieffer. Image credit <a href='https://physics.illinois.edu/people/nobel-laureates'>University of Illinois Nobel Laureats</a>. 
+   John Bardeen, Leon Cooper and Robert Schrieffer. Image credit: <a href='https://physics.illinois.edu/people/nobel-laureates'>University of Illinois Nobel Laureats</a>. 
 </div>
 <br/>      
 
-One year after Bardeen, Cooper and Schriffer received the Nobel prize for the BCS theory, Brian Josephson received the 1973 Nobel Prize in physics "for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects". Below there is a summary of the key principles of superconductivity including the BCS theory. 
+One year after Bardeen, Cooper and Schriffer received the Nobel prize for the BCS theory, Brian Josephson received the 1973 Nobel Prize in physics "for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the **Josephson effects**". Below there is a summary of the key principles of superconductivity including the BCS theory. 
 
 **<ins>General characteristics of superconductivity</ins>**
 * **Critical Temperature**: The transition to the superconducting state occurs below a critical temperature, Tc, characteristic to each superconductor.
@@ -57,7 +57,7 @@ With respect to the current project the **isotope effect** is particularly signi
 * **Energy gap**: There will be an energy gap between the ground state of a superconductor and the excited states. This means that it takes a certain amount of energy to excite an electron from the ground state to an excited state.
 
 
-# Josephson Junctions as candidates for Quantum Qubits 
+## Josephson Junctions as candidates for Quantum Qubits 
 
 A Josephson junction is a type of electrical junction made of two superconductors separated by a thin insulating layer. In a superconductor, electrons flow in pairs called Cooper pairs, and these pairs can tunnel through the thin insulating layer of the Josephson junction. The current through the junction is determined by the difference in the phases of the Cooper pairs on the two sides of the junction.
 
@@ -72,7 +72,7 @@ The inductance of the Josephson junction arises from the fact that the Cooper pa
 </div>
 <br/>  
 
-### Binary Representation and Quantum Computing 
+## Binary Representation and Quantum Computing 
 
 <br/>
  
